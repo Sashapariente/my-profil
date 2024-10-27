@@ -1,6 +1,6 @@
 
 body{
- 	background: #DCDCCC;
+ 	background: #F65B93;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
  	font-size: 16px;
@@ -12,12 +12,12 @@ h1, h2, h3 {
 h1 {
   	color: #blueviolet;
   	font-size: 36px;
-  	font-weight: 600;
+  	font-weight: 580;
 }
 h2 {
   	color: #blue;  
   	font-size: 25px;
-  	font-weight: 400;
+  	font-weight: 380;
 }
 a {
  	text-decoration: inherit;
